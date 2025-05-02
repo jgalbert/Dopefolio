@@ -704,5 +704,6 @@ textarea {
     top: 27px; } }
 
     .bio__photo {
-      display: flex;
-      flex-wrap: wrap; }
+    width: 100%;
+    display: block;
+    object-fit: cover; }
