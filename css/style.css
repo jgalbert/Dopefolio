@@ -616,7 +616,7 @@ textarea {
     padding: 4rem 0; }
     @media only screen and (max-width: 56.25em) {
       .main-footer__upper {
-        padding: 6rem 0; } }
+        padding: 3rem 0; } }
     @media only screen and (max-width: 37.5em) {
       .main-footer__upper {
         display: block; } }
@@ -624,7 +624,7 @@ textarea {
     order: 2; }
     @media only screen and (max-width: 56.25em) {
       .main-footer__row-1 {
-        margin-bottom: 5rem; } }
+        margin-bottom: 2rem; } }
   .main-footer__row-2 {
     width: 40%;
     order: 1;
