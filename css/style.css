@@ -702,3 +702,7 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+    .bio__photo {
+      display: flex;
+      flex-wrap: wrap; }
