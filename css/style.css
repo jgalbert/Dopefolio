@@ -706,4 +706,11 @@ textarea {
     .bio__photo {
     width: 100%;
     display: block;
-    object-fit: cover; }
+    object-fit: cover;
+    border-radius: 25% 10% }
+
+    .contact__icon {
+      width: 2rem;
+      height: 2rem;
+      color: rgb(155, 126, 189);
+    }
